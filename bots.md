@@ -1,4 +1,6 @@
+<div align="center">
 # Les bots de GeekMaskesLandMC
+</div>
 ## GeekylandMCBot
 GeekylandMCBot est le bot principal du serveur.
 ### Systèmes de niveaux, modération, musique...
