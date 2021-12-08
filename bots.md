@@ -5,3 +5,8 @@ GeekylandMCBot est le bot principal du serveur.
 Niveaux, modérations et musique par [l'équipe MEE6](https://github.com/mee6)
 ### Quêtes 
 Quêtes par [b2856203](https://github.com/b2856203) et [Messir21](https://github.com/messir21)
+## GeekyMail
+GeekyMail est le bot modmail du serveur.
+### Modmail
+Modmail par [kyb3r](https://github.com/kyb3r).
+Setup par [Messir21](https://github.com.messir21)
