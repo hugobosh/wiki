@@ -15,5 +15,12 @@
      <a href="https://discord.com/users/605266041601261581">
     <img src="https://img.shields.io/badge/admin:-Messir21-brightgreen">
   </a>
+      <br>
+     <a href="https://discord.com/users/605266041601261581">
+    <img src="https://img.shields.io/badge/Organisateur:-Jean Frédérick-brightgreen">
+  </a>
+       <a href="https://discord.com/users/605266041601261581">
+    <img src="https://img.shields.io/badge/Organisateur:-THE_FABEX-brightgreen">
+  </a>
 
 </div>
