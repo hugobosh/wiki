@@ -6,6 +6,25 @@ Le serveur doit avoir une activité assez puissante par rapport au nombre de mem
 ## Règle n°3 : Projet
 Le serveur doit avoir un projet particulier.
 *Les serveurs du style : **Serveur sans but particulier, juste chill** ne sont pas acceptés*
+
+
+
+
+
 # Code de conduite n°2 : La modération
+
+
+
+
+
 # Code de conduite n°3 : Le développement
+
+
+
+
+
 # Code de conduite n°4 : Le build
+
+
+
+
