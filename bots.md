@@ -8,6 +8,9 @@ Niveaux, modérations et musique par [l'équipe MEE6](https://github.com/mee6)
 ![Icône](https://i.imgur.com/XSvCAd6.png)
 ### Quêtes 
 Quêtes par [b2856203](https://github.com/b2856203) et [Messir21](https://github.com/messir21)
+
+![Icône](https://i.imgur.com/oH3FvGF.png)
+![Icône](https://i.imgur.com/XSvCAd6.png)
 ## GeekyMail
 GeekyMail est le bot modmail du serveur.
 ### Modmail
