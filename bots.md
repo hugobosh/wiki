@@ -13,6 +13,9 @@ Quêtes par [b2856203](https://github.com/b2856203) et [Messir21](https://github
 ![Icône](https://i.imgur.com/oH3FvGF.png)
 
 ![Icône](https://i.imgur.com/XSvCAd6.png)
+
+*********************	
+
 ## GeekyMail
 > GeekyMail est le bot modmail du serveur.
 ### Modmail
@@ -22,6 +25,9 @@ Setup par [Messir21](https://github.com/messir21)
 ![Icône](https://i.imgur.com/M3oDVKr.png)
 
 ![Icône](https://i.imgur.com/3IN02pz.png)
+
+*********************	
+
 ## GeekyServer
 > GeekyServer permet de lier le serveur mc à discord.
 ### Liaison
@@ -30,3 +36,5 @@ Instance du plugin discord SRV par [l'équipe discord SRV](https://github.com/di
 ![Icône](https://i.imgur.com/M3oDVKr.png)
 
 ![Icône](https://i.imgur.com/viHfiuq.png)
+
+*********************	
