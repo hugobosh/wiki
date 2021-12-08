@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.imgur.com/ioDnX6Q.png" align="center">
   <br>
-  <strong><i>Bot modmail pour discord.</i></strong>
+  <strong><i>Serveur pvp-faction-entreprises</i></strong>
   <br>
   <br>
 
