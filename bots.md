@@ -15,10 +15,10 @@ Quêtes par [b2856203](https://github.com/b2856203) et [Messir21](https://github
 ![Icône](https://i.imgur.com/3IN02pz.png)
 ## GeekyMail
 GeekyMail est le bot modmail du serveur.
-
-![Icône](https://i.imgur.com/dNmHxwd.png)
-
-![Icône](https://i.imgur.com/XSvCAd6.png)
 ### Modmail
 Modmail par [kyb3r](https://github.com/kyb3r).
 Setup par [Messir21](https://github.com.messir21)
+
+![Icône](https://i.imgur.com/M3oDVKr.png)
+
+![Icône](https://i.imgur.com/XSvCAd6.png)
