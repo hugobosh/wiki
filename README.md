@@ -5,7 +5,6 @@
   <br>
   <br
    <a href="https://geekmaskesland.org">
-    <img src="https://img.shields.io/badge/deploy_to-heroku-997FBC.svg?style=for-the-badge&logo=Heroku">
+    <img src="https://img.shields.io/badge/site-officiel-brightgreen">
   </a>
 </div>
-
