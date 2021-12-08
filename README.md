@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://i.imgur.com/o558Qnq.png" align="center">
+  <img src="https://i.imgur.com/odsGUHb.png" align="center">
   <br>
-  <strong><i>Bot modmail pour discord.</i></strong>
+  <strong><i>Wiki officiel</i></strong>
   <br>
   <br>
 </div>
