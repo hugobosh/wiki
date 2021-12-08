@@ -25,7 +25,7 @@ Setup par [Messir21](https://github.com/messir21)
 ## GeekyServer
 GeekyServer permet de lier le serveur mc à discord.
 ### Liaison
-Instance du plugin discord SRV par l'équipe discord SRV.
+Instance du plugin discord SRV par [l'équipe discord SRV](https://github.com/discordsrv).
 
 ![Icône](https://i.imgur.com/M3oDVKr.png)
 
