@@ -21,4 +21,4 @@ Setup par [Messir21](https://github.com.messir21)
 
 ![Icône](https://i.imgur.com/M3oDVKr.png)
 
-![Icône](https://i.imgur.com/XSvCAd6.png)
+![Icône](https://i.imgur.com/3IN02pz.png)
