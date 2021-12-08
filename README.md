@@ -5,7 +5,7 @@
   <br>
   <br>
    <a href="https://geekmaskesland.org">
-    <img src="https://img.shields.io/badge/site-officiel-brightgreen">
+    <img src="https://img.shields.io/badge/site-officiel-lightgrey">
   </a>
     <br>
      <a href="https://discord.com/users/827878458700070942">
