@@ -17,7 +17,7 @@ Quêtes par [b2856203](https://github.com/b2856203) et [Messir21](https://github
 GeekyMail est le bot modmail du serveur.
 ### Modmail
 Modmail par [kyb3r](https://github.com/kyb3r).
-Setup par [Messir21](https://github.com.messir21)
+Setup par [Messir21](https://github.com/messir21)
 
 ![Icône](https://i.imgur.com/M3oDVKr.png)
 
