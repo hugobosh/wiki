@@ -7,7 +7,7 @@
   <br>
   
   <a href="https://heroku.com/deploy?template=https://github.com/kyb3r/modmail">
-    <img src="https://img.shields.io/badge/Site_web-997FBC.svg?style=for-the-badge&logo=geekmaskeslandmc">
+    <img src="https://img.shields.io/badge/Site_web-FF00B5.svg">
   </a>
 
   <a href="https://github.com/kyb3r/modmail/">
