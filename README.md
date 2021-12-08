@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/site-officiel-brightgreen">
   </a>
     <br>
-     <a href="https://geekmaskesland.org">
+     <a href="https://discord.com/users/827878458700070942">
     <img src="https://img.shields.io/badge/fondateur:-b2856203-brightgreen">
   </a>
 </div>
