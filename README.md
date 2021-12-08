@@ -11,4 +11,9 @@
      <a href="https://discord.com/users/827878458700070942">
     <img src="https://img.shields.io/badge/fondateur:-b2856203-brightgreen">
   </a>
+      <br>
+     <a href="https://discord.com/users/605266041601261581">
+    <img src="https://img.shields.io/badge/admin:-Messir21-brightgreen">
+  </a>
+
 </div>
