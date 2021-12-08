@@ -17,7 +17,7 @@
   </a>
       <br>
      <a href="https://discord.com/users/845337551677161524">
-    <img src="https://img.shields.io/badge/Organisateur:-Jean Frédérick-brightgreen">
+    <img src="https://img.shields.io/badge/Organisateur:-Jean Frédérick-inactive">
   </a>
        <a href="https://discord.com/users/826394942334435338">
     <img src="https://img.shields.io/badge/Organisateur:-THE_FABEX-brightgreen">
