@@ -1,6 +1,6 @@
 # Les bots de GeekMaskesLandMC
 ## GeekylandMCBot
-GeekylandMCBot est le bot principal du serveur.
+> GeekylandMCBot est le bot principal du serveur.
 ### Systèmes de niveaux, modération, musique...
 Niveaux, modérations et musique par [l'équipe MEE6](https://github.com/mee6)
 
@@ -14,7 +14,7 @@ Quêtes par [b2856203](https://github.com/b2856203) et [Messir21](https://github
 
 ![Icône](https://i.imgur.com/XSvCAd6.png)
 ## GeekyMail
-GeekyMail est le bot modmail du serveur.
+> GeekyMail est le bot modmail du serveur.
 ### Modmail
 Modmail par [kyb3r](https://github.com/kyb3r).
 Setup par [Messir21](https://github.com/messir21)
@@ -23,7 +23,7 @@ Setup par [Messir21](https://github.com/messir21)
 
 ![Icône](https://i.imgur.com/3IN02pz.png)
 ## GeekyServer
-GeekyServer permet de lier le serveur mc à discord.
+> GeekyServer permet de lier le serveur mc à discord.
 ### Liaison
 Instance du plugin discord SRV par [l'équipe discord SRV](https://github.com/discordsrv).
 
