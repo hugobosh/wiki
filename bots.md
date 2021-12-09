@@ -45,6 +45,6 @@ Giveaways par [zeroDiscord](https://github.com/ZeroDiscord)
 
 ![Icône](https://i.imgur.com/M3oDVKr.png)
 
-![Icône](https://i.imgur.com/viHfiuq.png)
+![Icône](https://i.imgur.com/XSvCAd6.png)
 
 *********************	
