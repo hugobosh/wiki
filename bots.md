@@ -38,3 +38,13 @@ Instance du plugin discord SRV par [l'équipe discord SRV](https://github.com/di
 ![Icône](https://i.imgur.com/viHfiuq.png)
 
 *********************	
+## GeekyGiveaway
+> GeekyGiveaway nous permet d'organiser des giveaways sur le serveur.
+### Giveaways
+Giveaways par [zeroDiscord](https://github.com/ZeroDiscord)
+
+![Icône](https://i.imgur.com/M3oDVKr.png)
+
+![Icône](https://i.imgur.com/viHfiuq.png)
+
+*********************	
