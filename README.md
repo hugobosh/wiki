@@ -8,11 +8,11 @@
     <img src="https://img.shields.io/badge/site-officiel-5B5A59">
   </a>
     <br>
-     <a href="https://discord.com/users/827878458700070942">
+     <a href="https://github.com/b2856203">
     <img src="https://img.shields.io/badge/fondateur:-b2856203-843da4">
   </a>
       <br>
-     <a href="https://discord.com/users/605266041601261581">
+     <a href="https://github.com/messir21">
     <img src="https://img.shields.io/badge/admin:-Messir21-ff0000">
   </a>
       <br>
