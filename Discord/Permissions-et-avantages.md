@@ -1,6 +1,6 @@
 # Avantages de rôle
 
-| Rôle     |  Résultat   |
+| Rôle     |     |
 | ----------- | ----------- |
 |   |  |
 |   |  |
