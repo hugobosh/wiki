@@ -4,7 +4,7 @@
   <strong><i>Wiki officiel</i></strong>
   <br>
   <br>
-   <a href="https://geekmaskesland.org">
+   <a href="https://discord.com/404">
     <img src="https://img.shields.io/badge/site-officiel-5B5A59">
   </a>
     <br>
