@@ -22,5 +22,9 @@
        <a href="https://discord.com/users/826394942334435338">
     <img src="https://img.shields.io/badge/Organisateur:-THE_FABEX-12ff00">
   </a>
+      <br>
+     <a href="https://discord.com/users/852201062559776778">
+    <img src="https://img.shields.io/badge/Builder +:-Stivistorm-12ff00">
+  </a>
 
 </div>
