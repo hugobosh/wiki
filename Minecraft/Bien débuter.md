@@ -19,7 +19,7 @@ Marteaux, scies et pinces : Plus d'infos dans [les outils]().
 - Direction les serveurs factions : C'est ici que vous construirez votre base et votre entreprise.
 - Serveurs parc : Ces serveurs avec pvp off sont entièrement pour le loisir.
 - Serveurs event : serveur ouvert uniquement dans certaines parties de l'année.
-- 
+
 ## Créer ou rejoindre une entreprise
 Vous pouvez créer ou rejoindre une entreprise. Plus d'infos dans [entreprises]().
 
