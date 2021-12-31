@@ -24,7 +24,7 @@
   </a>
       <br>
      <a href="https://discord.com/users/852201062559776778">
-    <img src="https://img.shields.io/badge/Builder +:-Stivistorm-12ff00">
+    <img src="https://img.shields.io/badge/Builder +:-Stivistorm-EEC210">
   </a>
 
 </div>
