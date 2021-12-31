@@ -2,7 +2,7 @@
 ## Informations capitales
 
 Il est fortement conseillé de lire les différents règlements afin de savoir ce qui est autorisé ou non sur le serveur et les différentes plateformes qui lui sont liées : 
-- Règlement en jeu (bientot)
+- [Règlement en jeu](https://github.com/GeekMaskesLand/wiki/blob/main/Minecraft/R%C3%A8glement.md)
 - Règlement discord (sur le discord)
 
 ## Les objets propres à GeekMaskesLand
