@@ -3,7 +3,7 @@
 
 Il est fortement conseillé de lire les différents règlements afin de savoir ce qui est autorisé ou non sur le serveur et les différentes plateformes qui lui sont liées : 
 - [Règlement en jeu](https://github.com/GeekMaskesLand/wiki/blob/main/Minecraft/R%C3%A8glement.md)
-- Règlement discord (sur le discord)
+- [Règlement discord](https://discord.com/channels/855461234376048650/864459308372983858/926056300423553024) (sur [le discord](https://dsc.gg/geekmaskeslandmc))
 
 ## Les objets propres à GeekMaskesLand
 GeekMaskesLand utilise plusieurs mods (Blocklings, Custom NPCs, etc...), mais il a aussi ses objets propres. Nous allons vous les présenter ici (en gros). Si vous voulez plus d’informations sur le sujet, vous pourrez ensuite aller lire le [wiki des items]().
