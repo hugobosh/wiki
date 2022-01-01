@@ -4,9 +4,9 @@
     MERCI DE NE PAS ENLEVER CE COMMENTAIRE
     -->
 
-**Identifiant Discord** :<br/> Entrez votre ID ici
+**Identifiant Discord :** Entrez votre ID ici
 <!--Vous pourrez être récompensé pour votre contribution-->
 
-**Pseudo IG :**<br/> Entrez votre pseudo ici
+**Pseudo IG :** Entrez votre pseudo ici
 
-**Déscription des changements :**<br/> Entrez votre description ici
+**Déscription des changements :** Entrez votre description ici
