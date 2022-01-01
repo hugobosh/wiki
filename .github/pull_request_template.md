@@ -9,4 +9,4 @@
 
 **Pseudo IG :** Entrez votre pseudo ici
 
-**Déscription des changements :** Entrez votre description ici
+**Description des changements :** Entrez votre description ici
