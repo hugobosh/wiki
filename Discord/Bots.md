@@ -1,3 +1,14 @@
+---
+title: Bots
+keywords:
+  - geekmaskesland
+  - discord
+  - wiki
+  - liste
+description: Voici la liste des bots du discord
+---
+
+
 # Les bots de GeekMaskesLandMC
 ## GeekylandMCBot
 > GeekylandMCBot est le bot principal du serveur.
