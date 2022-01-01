@@ -31,3 +31,6 @@
 
 # Bienvenue sur le wiki geekmaskeslandmc
 Pour nous aider, rends toi sur [le github](https://github.com/geekmaskesland/wiki) et modifie les pages.
+
+
+test
