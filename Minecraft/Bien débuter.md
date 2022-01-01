@@ -1,3 +1,13 @@
+---
+title: Bien débuter
+keywords:
+  - à lire
+  - geekmaskesland
+  - wiki
+  - minecraft
+description: Il est recommandé de lire ces infos avant de se lancer sur geekmaskesland
+---
+
 # Bien débuter
 ## Informations capitales
 
