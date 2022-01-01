@@ -1,3 +1,12 @@
+---
+title: Readme
+keywords:
+  - à lire
+  - geekmaskesland
+  - wiki
+description: Bienvenue sur le wiki collaboratif de geekmaskeslandmc
+---
+
 <div align="center">
   <img src="https://i.imgur.com/odsGUHb.png" align="center">
   <br>
