@@ -1,3 +1,15 @@
+---
+title: Contribuer
+keywords:
+  - geekmaskesland
+  - autres
+  - wiki
+  - à lire
+  - Important
+description: Voici les codes de conduites. Il faut absolument les lire avant de postuler dans le staff ou demander un partenariat
+---
+
+
 # Code de conduite 1 : Les partenariats
 ## Règle n°1 : Pas de contenus nsfw
 Le serveur ne doit avoir **aucun** contenu nsfw, choquant ou autre...
