@@ -1,5 +1,5 @@
 ---
-title: Contribuer
+title: Codes de conduites
 keywords:
   - geekmaskesland
   - autres
